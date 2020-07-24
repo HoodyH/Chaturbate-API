@@ -1,0 +1,4 @@
+twine
+tox
+requests
+bs4

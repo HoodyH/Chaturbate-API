@@ -1,0 +1,10 @@
+/.idea/
+/__pycache__/
+/venv/
+/build/
+/dist/
+/chaturbate_api.egg-info/
+
+*.pyc
+*.swp
+*.cfg
